@@ -2,13 +2,13 @@
 
 # AEDNet: Adaptive Edge-Deleting Network For Subgraph Matching
 
-This repository is the official implementation of ['AEDNet: Adaptive Edge-Deleting Network For Subgraph Matching'](https://www.sciencedirect.com/science/article/pii/S0031320322005131?casa_token=c2s3d7sHosgAAAAA:3WCQPIefCnwn4a_FXzou6exa6LSowLXl944FCpPwgZte8Dn8KCjzWFj0i01x0Aidsw5CS7NVW3hL).
+This repository is the official implementation of ['AEDNet: Adaptive Edge-Deleting Network For Subgraph Matching'](https://doi.org/10.1016/j.patcog.2022.109033).
 
-[Here](https://www.sciencedirect.com/science/article/pii/S0031320322005131?casa_token=c2s3d7sHosgAAAAA:3WCQPIefCnwn4a_FXzou6exa6LSowLXl944FCpPwgZte8Dn8KCjzWFj0i01x0Aidsw5CS7NVW3hL) can download paper. 
+[Here](https://doi.org/10.1016/j.patcog.2022.109033) can download paper. 
 
 ![Architecture](CPADE_loss.png)
 
-[Here](https://www.sciencedirect.com/science/article/pii/S0031320322005131?casa_token=c2s3d7sHosgAAAAA:3WCQPIefCnwn4a_FXzou6exa6LSowLXl944FCpPwgZte8Dn8KCjzWFj0i01x0Aidsw5CS7NVW3hL) can download paper. 
+[Here](https://doi.org/10.1016/j.patcog.2022.109033) can download paper. 
 
 
 
