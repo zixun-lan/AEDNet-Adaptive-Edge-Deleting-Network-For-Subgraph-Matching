@@ -1,7 +1,7 @@
 import time
 from layers import *
 from model import CPADE_GAT
-from dataSet import dgraph
+from dataSet import dgraph, collate
 from torch.utils.data import Dataset, DataLoader
 
 num_layers = 5
