@@ -58,13 +58,14 @@ python train.py
 # Reference
 If you find our paper/code is useful, please consider citing our paper:
 
-```train
-@article{lan2022aednet,
+```
+@article{lan2023aednet,
   title={AEDNet: Adaptive Edge-Deleting Network For Subgraph Matching},
   author={Lan, Zixun and Ma, Ye and Yu, Limin and Yuan, Linglong and Ma, Fei},
   journal={Pattern Recognition},
+  volume={133},
   pages={109033},
-  year={2022},
+  year={2023},
   publisher={Elsevier}
 }
 ```
