@@ -6,13 +6,13 @@ This repository is the official implementation of ['AEDNet: Adaptive Edge-Deleti
 
 [Official Download: Here](https://doi.org/10.1016/j.patcog.2022.109033) can download official paper. 
 
-[Free Download: Here](https://arxiv.org/pdf/2211.04033) can download paper. 
+[Free Download: Here](https://arxiv.org/ftp/arxiv/papers/2211/2211.04033.pdf) can download paper. 
 
 ![Architecture](CPADE_loss.png)
 
 [Official Download: Here](https://doi.org/10.1016/j.patcog.2022.109033) can download official paper. 
 
-[Free Download: Here](https://arxiv.org/pdf/2211.04033) can download paper. 
+[Free Download: Here](https://arxiv.org/ftp/arxiv/papers/2211/2211.04033.pdf) can download paper. 
 
 
 
